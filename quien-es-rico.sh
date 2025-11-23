@@ -5,4 +5,4 @@ echo "Ingresa el nombre"
 read NOMBRE
 echo "Ingresa la edad"
 read EDAD
-echo "Hola: $NOMBRE tu tienes: $EDAD"
+echo "Hola: $NOMBRE tu tienes: $EDAD y eres rico"
